@@ -52,10 +52,12 @@ Output Waveform
 
 
 Tabular Column
+<img width="1038" height="684" alt="image" src="https://github.com/user-attachments/assets/0dab8c00-d02b-4624-bb7c-46cc166624b4" />
 
 
 
 Calculation
+
 
 
 
